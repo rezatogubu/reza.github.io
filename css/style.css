@@ -1,0 +1,35 @@
+.body {
+    background-color: #f6f4eb;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #91C8E4;
+}
+
+#projects {
+    background-color: #91C8E4;
+}
+
+.footerweb {
+    background-color: #749bc2
+}
+section {
+    padding-top: 5rem;
+    background-color: #f6f4eb;
+}
+
+.about-me-tools {
+    background-color: #ffffff;
+    padding: 0.4rem;
+    border-radius: 1rem;
+    border-style: solid;
+}
+
+.gallery-img {
+    width: 100%;
+}
+
+#galery .row > * {
+    padding: 0;
+}
